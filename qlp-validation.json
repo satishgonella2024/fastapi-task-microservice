@@ -1,0 +1,95 @@
+{
+  "id": "d13e1402-2ad9-4746-8a26-89f2317b518d",
+  "execution_id": "ab6ce084-1dbb-42ac-b10c-37fcb55774c0",
+  "overall_status": "failed",
+  "checks": [
+    {
+      "name": "code_extraction",
+      "type": "basic",
+      "status": "failed",
+      "message": "No code found in execution output",
+      "details": null,
+      "severity": "info"
+    },
+    {
+      "name": "code_extraction",
+      "type": "basic",
+      "status": "failed",
+      "message": "No code found in execution output",
+      "details": null,
+      "severity": "info"
+    },
+    {
+      "name": "code_extraction",
+      "type": "basic",
+      "status": "failed",
+      "message": "No code found in execution output",
+      "details": null,
+      "severity": "info"
+    },
+    {
+      "name": "code_extraction",
+      "type": "basic",
+      "status": "failed",
+      "message": "No code found in execution output",
+      "details": null,
+      "severity": "info"
+    },
+    {
+      "name": "code_extraction",
+      "type": "basic",
+      "status": "failed",
+      "message": "No code found in execution output",
+      "details": null,
+      "severity": "info"
+    },
+    {
+      "name": "code_extraction",
+      "type": "basic",
+      "status": "failed",
+      "message": "No code found in execution output",
+      "details": null,
+      "severity": "info"
+    },
+    {
+      "name": "code_extraction",
+      "type": "basic",
+      "status": "failed",
+      "message": "No code found in execution output",
+      "details": null,
+      "severity": "info"
+    },
+    {
+      "name": "code_extraction",
+      "type": "basic",
+      "status": "failed",
+      "message": "No code found in execution output",
+      "details": null,
+      "severity": "info"
+    },
+    {
+      "name": "code_extraction",
+      "type": "basic",
+      "status": "failed",
+      "message": "No code found in execution output",
+      "details": null,
+      "severity": "info"
+    },
+    {
+      "name": "code_extraction",
+      "type": "basic",
+      "status": "failed",
+      "message": "No code found in execution output",
+      "details": null,
+      "severity": "info"
+    }
+  ],
+  "confidence_score": 0.0,
+  "requires_human_review": true,
+  "metadata": {
+    "task_count": 10,
+    "validation_count": 10,
+    "combined_from_tasks": true
+  },
+  "created_at": "2025-07-17T17:06:15.099615"
+}
